@@ -65,6 +65,7 @@
         android:padding="10dp"
         android:gravity="center">
         <ImageView
+            android:id="@+id/img_map"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:src="@drawable/ic_baseline_pin_drop_24"/>
