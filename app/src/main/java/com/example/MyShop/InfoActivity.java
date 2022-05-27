@@ -13,9 +13,9 @@ import com.example.MyShop.R;
 public class InfoActivity extends AppCompatActivity {
 
     int no =0;//그림 번호
-    int imgs[] = {R.drawable.info1,R.drawable.info2,R.drawable.info3,R.drawable.info4,R.drawable.info5};
+    int imgs[] = {R.drawable.escaperoom,R.drawable.info2,R.drawable.info3,R.drawable.info4,R.drawable.info5};
 
-    String txts[] = {"1번 그림 설명","2번 그림 설명","3번 그림 설명","4번 그림 설명","5번 그림 설명"};
+    String txts[] = {"이스케이프 룸 영화를 모티브로 한 방탈출카페","2번 테마","3번 테마","4번 테마","5번 테마"};
 
     ImageView img_info;
     TextView txt_info;
